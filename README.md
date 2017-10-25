@@ -2,9 +2,9 @@
 
 *this is some information about my project* [link](http://gmail.com)
 - first thing
-- second thing
+- second tired
 
 
 1```
-var hell = 'hell';
+var hell = 'i am tired';
 ```
