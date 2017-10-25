@@ -1,6 +1,6 @@
 ### This is my project title
 
-*this is some information about my project* [link](http://gmail.com)
+*this is some information about my project* [link to gmail hahha](http://gmail.com)
 - first thing
 - second tired!
 
