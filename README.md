@@ -6,5 +6,5 @@
 
 
 1```
-var hell = 'i am tired!';
+var hell = 'i am tired! are u';
 ```
